@@ -1,5 +1,11 @@
 # sprites 
 
+# i used sublime text so to import  an image i do  
+# pygame.image.load("../graphics/other/splash.png")
+# if you are using vscode or there is a error like that 
+# just change the code to 
+# pygame.image.load("graphics/other/splash.png")
+
 import pygame, random, time
 from settings import * 
 
